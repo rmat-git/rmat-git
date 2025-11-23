@@ -15,11 +15,6 @@ I'm a programmer currently a student of **Technological University of the Philip
         <img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,electron,nodejs,laravel,git,docker,github,ps,pr,tailwind,discord,vscode,autocad" />
     </a>
 </p>
-<p align="left">
-    <a href="https://n8n.io/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/n8n-FF6A46?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n Badge" />
-    </a>
-</p>
 
 ---
 
