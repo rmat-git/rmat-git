@@ -21,15 +21,15 @@ I'm a programmer currently a student of Techonological University of the Philipp
 ### 📫 Connect With Me!
 
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin-handle" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="40" height="40"/>
+    <a href="https://linkedin.com/in/your-linkedin-handle" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
     </a>
     
-<a href="https://www.instagram.com/maatheewww" target="_blank">
-        <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="40" height="40"/>
+    <a href="https://www.instagram.com/maatheewww" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" alt="Instagram" width="40" height="40"/>
     </a>
     
-<a href="https://twitter.com/maatheewwww" target="_blank">
-        <img src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" width="40" height="40"/>
+    <a href="https://twitter.com/maatheewwww" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" alt="Twitter/X" width="40" height="40"/>
     </a>
 </p>
