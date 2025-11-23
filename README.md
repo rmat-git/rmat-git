@@ -24,11 +24,9 @@ I'm a programmer currently a student of Techonological University of the Philipp
     <a href="https://linkedin.com/in/your-linkedin-handle" target="_blank">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
     </a>
-    
     <a href="https://www.instagram.com/maatheewww" target="_blank">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" alt="Instagram" width="40" height="40"/>
     </a>
-    
     <a href="https://twitter.com/maatheewwww" target="_blank">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" alt="Twitter/X" width="40" height="40"/>
     </a>
