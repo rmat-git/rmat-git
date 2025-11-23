@@ -16,11 +16,6 @@ You can use **Skill Icons** or **Badges** to display clean logos for the languag
         <img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,electron,nodejs,laravel,git,docker,github,ps,pr,tailwind,discord,vscode,autocad" />
     </a>
 </p>
-<p align="left">
-    <a href="https://n8n.io/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/n8n-FF6A46?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n Badge" />
-    </a>
-</p>
 
 ---
 
@@ -28,13 +23,13 @@ You can use **Skill Icons** or **Badges** to display clean logos for the languag
 
 <p align="left">
     <a href="https://linkedin.com/in/your-linkedin-handle" target="_blank">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/683e895c102c918342718e8d89e023758b456ef1/icons/LinkedIn-Light.svg" alt="LinkedIn" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&label=." alt="LinkedIn" size="50"/>
     </a>
     <a href="https://www.instagram.com/maatheewww" target="_blank">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/683e895c102c918342718e8d89e023758b456ef1/icons/Instagram.svg" alt="Instagram" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&label=." alt="Instagram" size="50"/>
     </a>
     <a href="https://twitter.com/maatheewwww" target="_blank">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/683e895c102c918342718e8d89e023758b456ef1/icons/Twitter.svg" alt="Twitter/X" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000&label=." alt="Twitter/X" size="50"/>
     </a>
 </p>
 
