@@ -5,7 +5,7 @@ I'm a programmer currently a student of Techonological University of the Philipp
 
 * 🔭 I’m currently focused on **improving skills in automation (n8n) and front-end designing**.
 * 👯 I’m looking to **collaborate on projects**
-* ⚡ Fun fact: I enjoy **running, listening to music, and landscape and flower photography** 🏃🎶📸.
+* ⚡ Fun fact: I enjoy **running, listening to music, and photography (landscape and flower)** 🏃🎶📸.
 
 ---
 
