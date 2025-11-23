@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Mathew!
 
 ### 🧑‍💻 About Me
-I'm a programmer currently a student of Techonological University of the Philippines - Visayas. I'm always looking for new challenges and ways to improve my skills.
+I'm a currently a computer engineering student of Techonological University of the Philippines - Visayas. I'm always looking for new challenges and ways to improve my skills.
 
 * 🔭 I’m currently focused on **improving skills in automation (n8n) and front-end designing**.
 * 👯 I’m looking to **collaborate on projects**
