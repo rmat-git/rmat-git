@@ -30,10 +30,10 @@ You can use **Skill Icons** or **Badges** to display clean logos for the languag
     <a href="https://linkedin.com/in/your-linkedin-handle" target="_blank">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/683e895c102c918342718e8d89e023758b456ef1/icons/LinkedIn-Light.svg" alt="LinkedIn" width="40" height="40"/>
     </a>
-        <a href="https://www.instagram.com/maatheewww" target="_blank">
+    <a href="https://www.instagram.com/maatheewww" target="_blank">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/683e895c102c918342718e8d89e023758b456ef1/icons/Instagram.svg" alt="Instagram" width="40" height="40"/>
     </a>
-        <a href="https://twitter.com/maatheewwww" target="_blank">
+    <a href="https://twitter.com/maatheewwww" target="_blank">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/683e895c102c918342718e8d89e023758b456ef1/icons/Twitter.svg" alt="Twitter/X" width="40" height="40"/>
     </a>
 </p>
