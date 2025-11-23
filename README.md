@@ -1,17 +1,26 @@
 # Hi there 👋 I'm Mathew!
 
 ### 🧑‍💻 About Me
-I'm a currently a computer engineering student of Techonological University of the Philippines - Visayas. I'm always looking for new challenges and ways to improve my skills.
+
+* I'm currently a computer engineering student at the **Technological University of the Philippines - Visayas**.
+* I'm always looking for **new challenges** and ways to **improve my skills**.
+
+### 🚀 Current Focus & Collaboration
 
 * 🔭 I’m currently focused on **improving skills in automation (n8n) and front-end designing**.
-* 👯 I’m looking to **collaborate on projects**
-* ⚡ Fun fact: I enjoy **running, listening to music, and photography (landscape and flower)** 🏃🎶📸.
+* 👯 I’m looking to **collaborate on projects**.
+
+### 🏃🎶📸 Current Hobbies
+
+* running
+* listening to music
+* **photography** ( **landscape** and **flower** ).
 
 ---
 
 ### 💡 Tools & Languages
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,electron,nodejs,laravel,git,docker,github,ps,pr,tailwind,discord,vscode,autocad" />
+    <img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,electron,nodejs,laravel,git,docker,github,ps,pr,tailwind,discord,vscode,autocad" />
 </a>
 
 ---
