@@ -11,17 +11,28 @@ I'm a **Developer** who enjoys working on **web technologies and data analysis**
 
 ---
 
-### 🛠️ Languages and Tools
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | Python, JavaScript, HTML, CSS |
-| **Frameworks** | React (Learning), Node.js, Flask |
-| **Tools** | Git, VS Code, Linux |
+### 📈 Top Languages Used
+This card automatically calculates your most-used languages from your public repositories.
+
+[![rmat-git Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rmat-git&layout=compact&theme=radical)](https://github.com/rmat-git)
 
 ---
 
-### 📈 My GitHub Stats
-[![rmat-git GitHub Stats](https://github-readme-stats.vercel.app/api?username=rmat-git&show_icons=true&theme=radical)](https://github.com/rmat-git)
+### 💡 Skills & Tools (Logo Only)
+You can use **Skill Icons** or **Badges** to display clean logos for the languages and tools you know. 
+
+[Image of Skill Icons for GitHub README]
+
+
+<p align="left">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,nodejs,git,vscode,docker,aws" />
+    </a>
+</p>
+
+*Feel free to replace the language codes in the URL (e.g., `python,javascript,html,css,...`) with your actual skill set.*
+
+---
 
 ### 📫 How to reach me:
 * [LinkedIn](https://linkedin.com/in/your-linkedin-handle)  <-- *Replace this link!*
