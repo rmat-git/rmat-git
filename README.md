@@ -2,19 +2,16 @@
 
 ### 🧑‍💻 About Me
 
-* I'm currently a computer engineering student at the **Technological University of the Philippines - Visayas**.
-* I'm always looking for **new challenges** and ways to **improve my skills**.
-
-### 🚀 Current Focus & Collaboration
+I'm a currently a computer engineering student of Techonological University of the Philippines - Visayas. I'm always looking for new challenges and ways to improve my skills.
 
 * 🔭 I’m currently focused on **improving skills in automation (n8n) and front-end designing**.
-* 👯 I’m looking to **collaborate on projects**.
+* 👯 I’m looking to **collaborate on projects**
 
-### 🏃🎶📸 Current Hobbies
+#### 🏃🎶📸 Current Hobbies
 
-* running
-* listening to music
-* **photography** ( **landscape** and **flower** ).
+  * running
+  * listening to music
+  * **photography** ( **landscape** and **flower** ).
 
 ---
 
