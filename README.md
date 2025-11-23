@@ -18,7 +18,7 @@ I'm a programmer currently a student of Techonological University of the Philipp
 
 ### 📫 Contact me!
 
-<div align="center" style="text-decoration: none;">
+<div align="left" style="text-decoration: none;">
     <a href="https://linkedin.com/in/your-linkedin-handle" target="_blank" style="text-decoration: none;">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="text-decoration: none;"/>
     </a>
