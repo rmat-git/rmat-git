@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on improving skills in automation (n8n) and front-end designing.
 - 👯 I’m looking to collaborate on projects. 
-- 🤝 I’m looking for help with Automation and frontend. design. 
+- 🤝 I’m seeking tips design. 
 - 📫 How to reach me **mathewnegrido@gmail.com**
 
 <h3 align="left">Current Hobbies</h3>
