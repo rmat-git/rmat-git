@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Mathew Negrido</h1>
-<h4 align="left">I'm a currently a computer engineering student of Techonological University of the Philippines - Visayas. I'm always looking for new challenges and ways to improve my skills.</h4>
+<h4 align="left">Computer Engineering Graduate of Techonological University of the Philippines - Visayas. I'm always looking for new challenges and ways to improve my skills.</h4>
 
 - 🔭 I'm currently working on improving skills in automation (n8n) and front-end designing.
 - 👯 I'm looking to collaborate on projects.
